@@ -1,8 +1,8 @@
 {
     "name": "endy",
-    "displayName": "endy",
-    "description": "Smart go to the end of current line.",
-    "version": "0.0.4",
+    "displayName": "Endy (deprecated)",
+    "description": "DEPRECATED: Please use the Smart Keys extension (c75.smart-keys).",
+    "version": "0.0.5",
     "publisher": "c75",
     "engines": {
         "vscode": "^1.10.0"
